@@ -1,0 +1,30 @@
+{
+  "name": "bazaar-app",
+  "version": "1.0.0",
+  "description": "bazar_api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nothing"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "shahi",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^3.0.0",
+    "dot-env": "^0.0.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
