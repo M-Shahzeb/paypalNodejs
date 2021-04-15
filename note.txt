@@ -1,0 +1,12 @@
+Login: paypal.com
+email : shahi.hussan11@gmail.com
+password: Hamaha11
+sandbox Account {
+    client_id: "",
+    client_secret:""
+}
+....................................
+ Login : sandbox.paypal.com
+ email: shahi.hussan11@gmail.com
+ password: Hamaha11
+  // see transaction details
